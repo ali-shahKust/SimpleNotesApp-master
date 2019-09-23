@@ -5,6 +5,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;
 import android.widget.TextView;
 
+import com.chinalwb.are.AREditText;
+import com.chinalwb.are.render.AreTextView;
+
 /**
  * Created by SUDA on 08-09-2017.
  */
@@ -13,7 +16,8 @@ public class NoteViewHolder extends RecyclerView.ViewHolder {
 
     View mView;
 
-    TextView textTitle, textTime, content;
+    TextView textTitle, textTime;
+    AreTextView content;
     CardView noteCard;
 
     public NoteViewHolder(View itemView) {
@@ -36,7 +40,7 @@ public class NoteViewHolder extends RecyclerView.ViewHolder {
         textTime.setText(Long.toString(time));
     }
     public void setContent(String scontent){
-        content.setText(scontent);
+        content.fromHtml(scontent);
     }
 
 }

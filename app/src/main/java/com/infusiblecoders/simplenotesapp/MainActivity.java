@@ -83,9 +83,13 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             protected void onBindViewHolder(@NonNull final NoteViewHolder noteViewHolder, final int i, @NonNull final NoteModel noteModel) {
-                noteViewHolder.setNoteTitle(noteModel.getTitle());
+
+
+                noteViewHolder.setNoteTitle("Topic : "+ noteModel.getTitle());
                 noteViewHolder.setNoteTime(noteModel.getTimestamp());
-                noteViewHolder.setContent(noteModel.getContent());
+                //noteViewHolder.setContent("Open Your Note");
+
+               noteViewHolder.setContent(noteModel.getContent());
 
                 final String getKey = getRef(i).getKey();
 

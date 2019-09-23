@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\2ca150fd3548577e49e2c9ba2033ce37\AndroidManifest.xml:2:1-114:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\02a800f10c2627cab2eb6016499ba5a1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.chinalwb:are:0.1.7] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\e1a777443b4fb060cf02a29fe473083e\AndroidManifest.xml:2:1-29:12
@@ -62,20 +62,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Syeda\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\e87d72861a03077965092fc053752513\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\9fca806bbae0638647a32a1eea79d826\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\be4b513927148bb9b83fb03dc11ef16e\AndroidManifest.xml:2:1-7:12
-INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:3:5-49
 		INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml
 		INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:2:11-69
@@ -92,7 +92,7 @@ MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\Syeda\.gradle
 	android:name
 		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:7:5-36:19
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:7:5-37:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\2ca150fd3548577e49e2c9ba2033ce37\AndroidManifest.xml:15:5-112:19
 MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\2ca150fd3548577e49e2c9ba2033ce37\AndroidManifest.xml:15:5-112:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\02a800f10c2627cab2eb6016499ba5a1\AndroidManifest.xml:22:5-20
@@ -134,7 +134,7 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Syeda\.gradle\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\d07eb3ce51a28eaf68155318b7aac970\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:12:7-33
 	android:label
 		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
@@ -152,39 +152,43 @@ ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:14:9-17
 	android:name
 		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:14:19-81
 activity#com.infusiblecoders.simplenotesapp.StartActivity
-ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:18:9-26:20
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:18:9-27:20
 	android:theme
 		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:20:13-56
 	android:name
 		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:19:13-76
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:21:13-25:29
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:21:13-26:29
 action#android.intent.action.MAIN
 ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
 		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:22:25-66
+action#android.intent.action.VIEW
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.infusiblecoders.simplenotesapp.user_sign.RegisterActivity
-ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:27:9-29:48
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:28:9-30:48
 	android:label
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:29:13-45
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:30:13-45
 	android:name
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:28:13-89
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:29:13-89
 activity#com.infusiblecoders.simplenotesapp.user_sign.LoginActivity
-ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:30:9-33:20
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:31:9-34:20
 	android:label
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:32:13-44
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:33:13-44
 	android:name
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:31:13-86
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:32:13-86
 activity#com.infusiblecoders.simplenotesapp.NewNoteActivity
-ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:34:9-35:49
+ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:35:9-36:49
 	android:label
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:35:13-37
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:34:19-84
+		ADDED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml:35:19-84
 uses-sdk
 INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\pro\SimpleNotesApp-master\app\src\main\AndroidManifest.xml
@@ -385,10 +389,6 @@ ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches
 		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\2ca150fd3548577e49e2c9ba2033ce37\AndroidManifest.xml:46:17-47
 	android:autoVerify
 		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\2ca150fd3548577e49e2c9ba2033ce37\AndroidManifest.xml:45:17-42
-action#android.intent.action.VIEW
-ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\2ca150fd3548577e49e2c9ba2033ce37\AndroidManifest.xml:47:17-69
-	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\2ca150fd3548577e49e2c9ba2033ce37\AndroidManifest.xml:47:25-66
 category#android.intent.category.DEFAULT
 ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] C:\Users\Syeda\.gradle\caches\transforms-2\files-2.1\2ca150fd3548577e49e2c9ba2033ce37\AndroidManifest.xml:49:17-76
 	android:name

@@ -82,6 +82,7 @@ public class NewNoteActivity extends AppCompatActivity {
         setContentView(R.layout.activity_new_note);
 
 
+
         try {
             noteID = getIntent().getStringExtra("noteId");
 

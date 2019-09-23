@@ -1,4 +1,4 @@
-#Mon Sep 23 14:29:18 PKT 2019
+#Mon Sep 23 15:21:09 PKT 2019
 base.0=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 path.1=classes.dex
 renamed.1=classes2.dex
