@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Sun Sep 22 15:34:11 PKT 2019
+7.path=editor.html
+2.base=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+5.set=DEX
+0.path=crashlytics-build.properties
+2.baseType=DIRECTORY
+3.base=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=fonts/walkway.ttf
+4.base=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=normalize.css
+5.base=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+4.set=DEX
+3.path=style.css
+6.base=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+7.base=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=classes.dex
+0.base=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=rich_editor.js
+1.base=D\:\\pro\\SimpleNotesApp-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY
+0.set=ASSET

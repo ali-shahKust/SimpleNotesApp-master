@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">968780225645-0t7fs4qjcf0hmndll6brr6f410pq49dq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://simplenotesapp-a97cd.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">968780225645</string>
+    <string name="google_api_key" translatable="false">AIzaSyCL-9c7tfBAUWgySSQluZmFKoPVkf-6QVw</string>
+    <string name="google_app_id" translatable="false">1:968780225645:android:62196b03f35e46517c7364</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCL-9c7tfBAUWgySSQluZmFKoPVkf-6QVw</string>
+    <string name="google_storage_bucket" translatable="false">simplenotesapp-a97cd.appspot.com</string>
+    <string name="project_id" translatable="false">simplenotesapp-a97cd</string>
+</resources>
